@@ -1,8 +1,8 @@
-function FunFactCard() {
+function FunFactCard({ fact }) {
   return (
     <div>
       <h2>Fun Fact</h2>
-      <p>This is a fun fact.</p>
+      <p>{fact}</p>
     </div>
   );
 }

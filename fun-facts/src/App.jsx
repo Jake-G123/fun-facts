@@ -10,7 +10,7 @@ function App() {
 
   return (
       <div>
-        <FunFactCard />
+        <FunFactCard fact="I have visited more than 10 countries." />
       </div>
   )
 }
