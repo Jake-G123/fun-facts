@@ -11,6 +11,10 @@ function App() {
   return (
       <div>
         <FunFactCard fact="I have visited more than 10 countries." />
+        <FunFactCard fact="I own a parkeet." />
+        <FunFactCard fact="I am legally allowed to drive a crane." />
+        <FunFactCard fact="I am wanted in the state of Hawaii for crimes against Pineapples." />
+        <FunFactCard fact="I can play the vuvuzela." />
       </div>
   )
 }
